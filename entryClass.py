@@ -2,6 +2,8 @@ from  typing import BinaryIO, List, Tuple, Dict
 import qrcode
 import hashlib
 
+#hi
+
 class entry:
 
     """
